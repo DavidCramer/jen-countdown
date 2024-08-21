@@ -1,8 +1,8 @@
 'use strict';
 
-const cacheName = 'tnk-calculate';
-const startPage = '/tnk-calc/';
-const offlinePage = '/tnk-calc/';
+const cacheName = 'jen-count';
+const startPage = './index.html';
+const offlinePage = './index.html';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [];
 // Install
