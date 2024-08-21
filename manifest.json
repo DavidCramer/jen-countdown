@@ -6,7 +6,7 @@
   "background_color": "#000",
   "display": "standalone",
   "scope": "/jen-countdown/",
-  "theme_color": "#950505",
+  "theme_color": "#000",
   "icons": [
     {
       "src": "assets/icon-96.png",
