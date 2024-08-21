@@ -18,7 +18,7 @@ const TimerApp = {
 	checkTimer() {
 		const time1 = new Date();
 		const time1ms = time1.getTime( time1 );
-		const time2 = new Date( 2024, 8, 26, 15, 0 );
+		const time2 = new Date( 2024, 7, 26, 15, 0 );
 		const time2ms = time2.getTime( time2 );
 		const difference = time2ms - time1ms;
 		const days = Math.floor( difference / 36e5 / 24 );
