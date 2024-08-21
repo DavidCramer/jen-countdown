@@ -4,7 +4,7 @@
   "description": "Jen visitation countdown.",
   "start_url": "/jen-countdown/",
   "background_color": "#000",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/jen-countdown/",
   "theme_color": "#950505",
   "icons": [
